@@ -1,4 +1,4 @@
-# Country Data Fetching and Filtering
+# Country Lookup
 
 ## Overview
 This project provides a Swift-based implementation for fetching country data from an API, processing the results, and filtering them based on user input.
