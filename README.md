@@ -99,11 +99,11 @@ Tests the ViewModel for correct data handling and filtering.
 #### `CountriesViewControllerTests`
 Tests the ViewController to ensure proper UI updates and user interactions.
 
-#### How to run the App
+## How to run the App
 1. Clone the repository and open it in Xcode.
 2. Run the project using the iOS simulator or a physical device.
 
-#### How to run the Tests
+## How to run the Tests
 1. Open the project in Xcode.
 2. Select  Product -> Test or use the  ⌘ + U shortcut.
 3. All tests, including network-related ones with mock clients, will run, and the results will be displayed.
